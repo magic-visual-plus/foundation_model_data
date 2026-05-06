@@ -1,0 +1,42 @@
+
+foundation_models:
+  metal:
+    projects:
+      "yidechilun":
+        name: "益得齿轮"
+        approach_id: 573
+      "baolaidechilun": 
+        name: "宝来德齿轮"
+        approach_id: 559
+      "sanyouzhidongpan": 
+        name: "三友制动盘"
+        approach_id: 449
+      "qinan_gangti":
+        name: "秦安缸体"
+        approach_id: 536
+  interior:
+    projects:
+      "chengdu_andaotuo_zuoyi":
+        name: "成都安道拓座椅"
+        datasets: [2103, 2771]
+      "yufu_andaotuo_zuoyi":
+        name: "鱼腹安道拓座椅"
+        datasets: [2104]
+      "huangmaoping_andaotuo_zuoyi":
+        name: "黄茅坪安道拓座椅"
+        datasets: [2106]
+      "ningbo_jifeng_zuoyi":
+        name: "宁波继锋座椅"
+        datasets: [2240]
+      "changan_lier_zuoyi":
+        name: "长安李尔座椅"
+        datasets: [2230]
+      "dongshi_lier_zuoyi":
+        name: "东实李尔座椅"
+        datasets: [2814]
+      "zonghe_zuoyi":
+        name: "综合座椅"
+        datasets: [2102]
+      "yanfeng_menban":
+        name: "延锋门板"
+        datasets: [2884, 2845, 2918, 2986, 3003]

@@ -1,0 +1,7 @@
+
+foundation_models:
+  metal:
+    projects:
+      "zhenwen": 
+        name: "震纹"
+        approach_id: 496
